@@ -62,7 +62,7 @@
         "css-element-queries": "^1.2.3",
         "exceljs": "4.1.1",
         "file-saver": "^2.0.2",
-        "jszip": "^3.5.0",
+        "jszip": "^3.8.0",
         "lz4js": "^0.2.0",
         "material-icon-font": "git+https://github.com/petergng/materialIconFont.git",
         "moment": "^2.27.0",
